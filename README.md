@@ -13,7 +13,7 @@ Our first typeface. 💃
 crafted with <span style="color: #8b0000;">&hearts;</span> by your friends on the <a href="https://srmkzilla.net">SRMKZILLA</a> team.
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/verion-0.0.1-yellowgreen" alt="version 0.0.1"/>
+    <img src="https://img.shields.io/badge/verion-0.1-yellowgreen" alt="version 0.1"/>
     <img src="https://img.shields.io/badge/license-OFL-brightgreen" alt="license MIT"/>
     <img src="https://img.shields.io/badge/author-SRMKZILLA-orange" alt="author SRMKZILLA"/>
 </p>
@@ -30,7 +30,7 @@ crafted with <span style="color: #8b0000;">&hearts;</span> by your friends on th
 
 ## License 📜
 
-`mozart` is available under the SIL Open Font License (OFL).
+`mozarc` is available under the SIL Open Font License (OFL).
 
 ## Contributing 🤝
 
@@ -38,8 +38,8 @@ Please read `Contributing.md` for details on our code of conduct, and the proces
 
 ## Shout outs 💥
 
-| <p align="center">![Eashaankar Sahai](https://github.com/eashaankar.png?size=128)<br>[Eashaankar Sahai](https://www.behance.net/eashaankarsahai)</p> | <p align="center">![Rahul Kumar]()<br>[Rahul Kumar]()</p> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| <p align="center">![Eashaankar Sahai](https://github.com/eashaankar.png?size=128)<br>[Eashaankar Sahai](https://www.behance.net/eashaankarsahai)</p> | <p align="center">![Rahul Kumar](https://github.com/rahulkumarvh.png?size=128)<br>[Rahul Kumar](https://github.com/rahulkumarvh)</p> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 
 ## Forking this repo 🚨
